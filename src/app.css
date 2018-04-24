@@ -1,0 +1,16 @@
+body {
+  background-color: #202020;
+  color: #f0f0f0;
+  height: 100%;
+  margin: 0;
+}
+
+html {
+  height: 100%;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
